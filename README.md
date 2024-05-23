@@ -1,1 +1,1 @@
-Here you can find my PyCon's talk slides!🗂️
+Here you can find my PyCon's talk slides! 🗂️
