@@ -8,4 +8,5 @@ dependencies = [
     "eurostat>=1.1.1",
     "ipykernel>=6.29.5",
     "matplotlib>=3.10.3",
+    "qrcode>=8.2",
 ]
