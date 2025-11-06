@@ -1,0 +1,9 @@
+column_name,description
+PlayerId,Unique identifier for the player in the dataset.
+NameFirst,Player's first name.
+NameLast,Player's last name.
+CurrentHandle,Current in-game name or handle used by the player.
+CountryCode,ISO country code representing the player’s nationality.
+TotalUSDPrize,Total earnings of the player in US dollars from all tournaments or competitions.
+Game,"Name of the primary game the player competes in (e.g., 'Dota 2', 'CS:GO', 'Fortnite')."
+Genre,"Category or type of the game (e.g., 'MOBA', 'FPS', 'Battle Royale')."

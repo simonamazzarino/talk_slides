@@ -1,0 +1,7 @@
+column_name,description
+TeamId,Unique identifier for the esports team in the dataset.
+TeamName,Official name of the esports team or organization.
+TotalUSDPrize,Total prize money earned by the team in US dollars across all competitions.
+TotalTournaments,Total number of tournaments or competitions the team has participated in.
+Game,"Name of the main game the team competes in (e.g., 'Dota 2', 'CS:GO', 'League of Legends')."
+Genre,"Category or type of the game (e.g., 'MOBA', 'FPS', 'Battle Royale')."

@@ -1,0 +1,7 @@
+column_name,description
+Continent_Name,"Full name of the continent (e.g., 'Europe', 'Asia', 'Africa')."
+Continent_Code,"Short alphabetic code representing each continent (e.g., 'EU', 'AS', 'AF')."
+Country_Name,"Official full name of the country (e.g., 'France', 'Japan', 'Brazil')."
+Two_Letter_Country_Code,"ISO 3166-1 alpha-2 country code (e.g., 'FR' for France, 'JP' for Japan)."
+Three_Letter_Country_Code,"ISO 3166-1 alpha-3 country code (e.g., 'FRA' for France, 'JPN' for Japan)."
+Country_Number,"ISO 3166-1 numeric country code (e.g., '250' for France, '392' for Japan)."

@@ -1,0 +1,14 @@
+[project]
+name = "2025-devfest"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "duckdb>=1.4.1",
+    "gradio>=5.49.1",
+    "haystack-ai>=2.19.0",
+    "ipykernel>=7.1.0",
+    "pandas>=2.3.3",
+]
